@@ -13,7 +13,7 @@ Segmentation of the coronary artery is an important task for the quantitative an
 > Fig.1 Our geometry-based cascaded segmentation network for generating mesh of the coronary artery.
 
 
-![predicted results on our CCA-200 dataset and ASOCA](./images/results.jpg)
+![predicted results on our CCA-200 dataset and ASOCA](./images/results.png)
 
 > Fig.2 Comparsion Results of Comprehensive Experiments on our collected CCA-200 dataset and public ASOCA dataset with current mainstream methods. Compared with the ASOCA, the coronary artery in our collected CCA-200 has more complicated and elaborate structures, including more multi-forks, and more twisted and narrower branches, which raises higher demand for the segmentation of the coronary artery.
 
